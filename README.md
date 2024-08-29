@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **something cool :)**
 
-- 🌱 I’m currently learning **Fullstack 3D WebGIS, Python for AI, Python for geospatial data analysis, CesiumJS**
+- 🌱 I’m currently learning **Fullstack 3D WebGIS, Python for AI, Python for geospatial data analysis, CesiumJS, Data/AI Governance**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
