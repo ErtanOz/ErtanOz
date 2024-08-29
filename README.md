@@ -17,6 +17,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ertanoz&size_weight=0.5&count_weight=0.5&layout=compact&theme=white)</br> </br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ertanoz&show_icons=true&locale=en" alt="ertanoz" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ertanoz&show_icons=true&locale=en" alt="ertanoz"/></p>
 
 
