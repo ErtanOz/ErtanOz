@@ -20,7 +20,7 @@
 💡 I’m a **Data & AI Developer** passionate about connecting  
 **Open Data**, **GeoAI**, and **Digital Heritage** through creative coding.  
 
-🌍 Based in **Cologne (Germany)**, I work on urban data ecosystems like **KUDOS**,  
+🌍 I work on urban data ecosystems,  
 and explore Smart City solutions for **real-time visualization, governance, and culture**.
 
 🔭 Current Focus:
