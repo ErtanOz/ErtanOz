@@ -80,7 +80,7 @@
 
 ## 🤝 Connect
 [![Discord](https://img.shields.io/badge/Discord-archinfo-5865F2?logo=discord&logoColor=fff)](https://discord.gg/archinfo)
-[![Email](https://img.shields.io/badge/Email-ertan.ozcan%40stadt--koeln.de-D14836?logo=gmail&logoColor=fff)](mailto:mail@gmail.com)
+[![Email](https://img.shields.io/badge/Email-mail@gmail.com-D14836?logo=gmail&logoColor=fff)](mailto:mail@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-ErtanOz-181717?logo=github&logoColor=fff)](https://github.com/ErtanOz)
 
 ---
