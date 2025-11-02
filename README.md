@@ -1,7 +1,7 @@
 <!-- === Tech & Smart City | Data & AI Portfolio README === -->
 <div align="center">
 
-# 🛰️ Smart City · GeoAI · Open Data . UrbanData
+# 🛰️ Smart City · GeoAI · UrbanData · OpenData 
 ### Hi, I'm **Ertan** 👋 — building data-driven cities & cultural heritage tools
 
 [![Visits](https://komarev.com/ghpvc/?username=ErtanOz&label=Profile%20views)](https://github.com/ErtanOz)
