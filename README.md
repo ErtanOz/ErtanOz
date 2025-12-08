@@ -6,7 +6,7 @@
 
 [![Visits](https://komarev.com/ghpvc/?username=ErtanOz&label=Profile%20views)](https://github.com/ErtanOz)
 [![Followers](https://img.shields.io/github/followers/ErtanOz?label=Followers)](https://github.com/ErtanOz?tab=followers)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ertan%20Ozcan-0A66C2?logo=linkedin)](https://www.linkedin.com/in/ertanozcan/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ertan%20Ozcan-0A66C2?logo=linkedin)]([https://www.linkedin.com/in/ertanozcan/](https://www.linkedin.com/in/ertan-%C3%B6zcan-73bb3399/)
 [![Location](https://img.shields.io/badge/Cologne-DE-FFC107?logo=city)](#)
 
 </div>
