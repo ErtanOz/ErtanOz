@@ -51,6 +51,7 @@
 ---
 
 ## 🌐 Highlighted Projects (Smart City & Heritage)
+- 🏛️ **RATISA – Ratsinformationsassistent** — Digitale Verwaltungsprozesse & Gremienmanagement
 - 🚲 **Mobility & Parking Dashboards** — real-time occupancy & traffic insights  
 - 🌬️ **Air-Quality/Heat Monitoring** — map layers + trend analytics  
 - 🏛️ **Denkmal-4D Köln** — cultural heritage data & 3D web maps  
