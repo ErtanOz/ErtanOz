@@ -14,10 +14,12 @@
 ---
 
 ## 🚦 What I do
+- 🏛️ **Civic Tech / GovTech**: Datenmanagement & Data Governance
 - 🧭 **Urban Data & GeoAI**: realtime dashboards (traffic, parking, air-quality), spatial analytics  
 - 🛠️ **Data/AI Engineering**: Python, FastAPI, Kafka, Azure Data Factory, ADLS, Purview  
 - 🏛️ **Digital Heritage**: 3D/ WebGIS (CesiumJS, Leaflet, photogrammetry), storytelling  
 - ✅ **AI/Data Governance**: compliance checks, roles/rights, medallion architecture
+
 
 **Currently:** Fullstack 3D WebGIS · Python for AI · CesiumJS · Data/AI Governance
 
